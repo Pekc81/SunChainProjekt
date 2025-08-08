@@ -21,8 +21,16 @@ To create a truly decentralized network that combines:
 - Token-based incentive system  
 - Scalable and secure blockchain integration
 
+## 📬 Contact
+- Telegram: [@e_tews/https//t.me/e_tews  
+- WhatsApp: +49 17662709950
+
+---
+
 *This project is open for collaboration, development, and investment opportunities.*
 
-## 📬 Contact
-- Telegram: @e_tews
-- WhatsApp: +49 17662709950
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
